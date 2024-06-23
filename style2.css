@@ -1,0 +1,52 @@
+body {
+  background-color: #0A2238;
+  color: #FFFFFF;
+  zoom: 120%
+}
+
+h1 {
+  color: #FFFFFF;
+  font-size: 24px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #FFFFFF;
+}
+
+table th, table td {
+  border: 1px solid #FFFFFF;
+  padding: 8px;
+}
+
+table th {
+  background-color: #0A2238;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+table tr:nth-child(even) {
+  background-color: #1C3D5A;
+}
+
+p{
+  text-align: center;
+}
+
+
+
+a{
+  color : lightcoral;
+}
+
+
+.hegetes {
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
